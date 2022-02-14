@@ -2,9 +2,6 @@ name: ESP Async Web Server CI
 
 on:
   push:
-    branches:
-    - master
-    - release/*
   pull_request:
 
 jobs:
